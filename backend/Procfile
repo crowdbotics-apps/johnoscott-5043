@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT johnoscott_5043.wsgi:application
